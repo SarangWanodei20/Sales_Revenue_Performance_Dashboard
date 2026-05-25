@@ -334,5 +334,6 @@ KPI Cards:
 
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](<img width="1297" height="727" alt="Screenshot 2026-05-25 155426" src="https://github.com/user-attachments/assets/55e58123-cf9f-4c97-aacb-101bd5137eed" />
-)
+<img width="1297" height="727" alt="Screenshot 2026-05-25 155426" src="https://github.com/user-attachments/assets/e0af7d89-f37d-4d38-a107-507996a1da43" />
+
+
